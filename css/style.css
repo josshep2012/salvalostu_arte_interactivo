@@ -1,0 +1,3127 @@
+
+    
+/*aca empieza 1024px*/
+/*aca empieza 1024px*/
+/*aca empieza 1024px*/
+/*aca empieza 1024px*/
+/*aca empieza 1024px*/
+/*aca empieza 1024px*/
+/*aca empieza 1024px*/
+/*aca empieza 1024px*/
+/*aca empieza 1024px*/ 
+
+
+
+/*barra de navegacion*/
+
+
+@media(min-width:1024px ){
+
+
+body{
+
+
+   
+    font-size: 15px;
+    margin: 0%;
+    box-sizing: border-box;
+   
+ 
+ 
+ }
+
+
+   /* INDEX */
+   /* INDEX */
+   /* INDEX */
+   /* INDEX */
+ 
+ .haderpp{
+ 
+     font-family: 'Gothic A1', sans-serif;
+     background-color:  rgb(45, 111, 43);
+     color: rgb(60, 136, 141);
+     width: 60%;
+     height: 15%; 
+     z-index: 900;   
+     display: flex;
+     justify-content: center;
+     border-radius: 20PX;
+     top: 0.5%;
+     position: absolute;
+     left: 20%;
+     
+ 
+ 
+ } 
+
+ .main{
+
+   position: absolute;
+    width:100%;
+    height: 80%;    
+    display: flex;
+
+
+}
+
+ 
+ 
+ 
+ .Navprincipiosanim{
+
+    position: relative;
+     
+     font-family: Arial, Helvetica, sans-serif;
+     text-decoration: none;
+     color: white;
+     
+     font-size: 60px;
+     width: 100%;
+     height: 80%;
+     padding: 0px 0px 0px 0px;
+     text-align: center;
+    
+ 
+ }
+ 
+ 
+ 
+ 
+
+
+ 
+
+
+ 
+ 
+ 
+ /*inicio*/
+ 
+ 
+ .sectionone{
+     
+   position: relative;
+   display: flex;
+   width: 100%;
+   height: 95vh;
+   justify-content: center;
+   flex-direction: row;  
+ 
+   
+ 
+ } 
+ 
+ 
+ 
+ 
+ .img12pa{
+ 
+     
+     position: absolute;
+     width: 50%;
+     height: 50%;     
+     top: 25%;  
+     transition: 0.5s;
+     
+     
+     
+ }
+
+ .img12pa:hover{
+  transform: scale(1.3);
+ }
+
+
+ .aenlace1{
+   
+
+    position: relative;
+    width: 20%;
+    height: 10%;
+    justify-content: center;
+    top: 85%;
+
+
+
+
+ }
+ 
+ 
+ .recurso{
+
+    position: absolute;
+     
+     font-family: Arial, Helvetica, sans-serif;
+     text-decoration: none;
+     color: white;
+     background-color:  rgb(45, 111, 43);
+     font-size: 30px;
+     width: 100%;
+     height: 100%;     
+     text-align: center;
+     padding: 5px 0px 2px 0px;
+     border-radius: 10px 10px 10px 10px;
+     border-color: rgb(45, 111, 43);
+      transition: 0.5s;
+
+
+ }
+
+ .recurso:hover{
+        
+    background-color:  rgba(34, 156, 30, 0.76);
+    transform: scale(1.1);
+
+ }
+
+
+
+ 
+  
+  /* footer o final de pagina*/
+ 
+  /*.footer1{
+  
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+     width: 20%;
+     height: 5%;      
+     z-index: 990;
+    bottom: 0%;
+ 
+ 
+   }*/
+
+
+
+
+ #byjss1{
+ 
+
+
+    position: absolute;    
+     font-size: 15px;
+     text-align: center;
+     width: 35%;
+     
+     font-family: Arial, Helvetica, sans-serif;
+     color: white; 
+     background-color: rgb(45, 111, 43);  
+     height: 2%;          
+     z-index: 990;
+     top: 94%;
+     left: 31%;
+ 
+ }*/
+
+ 
+ 
+
+ 
+
+
+
+
+
+  
+
+ /* PRIMEROS DOCE PRINCIPIOS */
+ /* PRIMEROS DOCE PRINCIPIOS */
+ /* PRIMEROS DOCE PRINCIPIOS */
+
+
+
+
+ body{
+
+
+   
+    font-size: 15px;
+    margin: 0%;
+    box-sizing: border-box;
+    
+ 
+ 
+ }
+
+ .main2{
+
+  position:absolute;
+  width: 100%;
+  height: 150%;
+  display: flex;
+  flex-direction: row; 
+  justify-content:space-between;
+  align-items: center;
+
+
+
+
+ }
+
+
+ /* información de los animales extintos*/
+  /* información de los animales extintos*/
+   /* información de los animales extintos*/
+ 
+ .haderp2{
+ 
+    font-family: 'Gothic A1', sans-serif;
+    background-color: rgb(45, 111, 43);
+    color: rgb(60, 136, 141);
+    width: 60%;
+    height: 8%;    
+    display: flex;
+    justify-content: center;
+    border-radius: 20PX;
+    top: 0.5%;
+    z-index: 900;
+    left: 20%;
+    position: absolute;
+    
+ 
+ 
+ }
+  
+ 
+
+ 
+ .Navprincipiosanim2{
+
+    position: relative;
+    
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    color: white;
+    
+    font-size: 35px;
+    width: 80%;
+    height: 80%;
+    position: absolute;
+    
+    text-align: center;
+   
+    
+ 
+ }
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+ .sectiontwo{
+ 
+ 
+    background-color: white;
+    border-color: red;
+    position: absolute;   
+    width: 30%;
+    height: 80%;
+    top: 8%;
+    left: 0%;
+
+}
+
+.sectiontwoone{
+ 
+    background-color: white;
+    border-color: red;
+    position: absolute;   
+    width: 30%;
+    height: 80%;
+    top: 8%;
+    left: 35%;
+
+}
+
+.sectiontwotwo{
+ 
+ 
+    background-color: white;
+    border-color: red;
+    position: absolute;   
+    width: 30%;
+    height: 80%;
+    top: 8%;
+    right: 0%;
+    
+
+}
+
+
+ 
+
+ body{
+
+    font-size: 15px;
+    margin: 0%;
+    box-sizing: border-box;
+    
+ }
+
+ .main3{
+
+  position:absolute;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: row; 
+  
+  
+   
+  
+   }
+
+
+ 
+
+
+
+.Navprincipiosanim3{
+
+    position: relative;
+    
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    color: white;
+    
+    font-size: 25px;
+    width: 80%;
+    height: 80%;
+    position: absolute;
+    
+    text-align: center;
+   
+
+}
+   
+ 
+ 
+ .sectiontres {
+ 
+    
+ 
+    background-color: white;
+    border-color: red;
+    position: absolute;
+    display: flex;  
+   justify-content: space-around;
+    width: 100%;
+    height: 80vh;
+    top: 10%;
+ 
+ 
+ 
+ 
+ }
+
+
+ .banterior3{
+    position: absolute;
+    width: 5%;
+    height: 8%;
+    left: 0px;
+    top: 2%;
+
+ }
+
+
+
+
+
+
+
+
+
+/*Dodo*/
+
+.bq7{
+    
+    position: absolute; 
+     font-family: 'Gothic A1', sans-serif;
+     justify-content: center;
+     text-align: center;
+     font-size: 35px;
+     color: white; 
+     width: 100%; 
+     height: 5%; 
+     background-color: rgb(45, 111, 43);
+     padding: 8px 0px 5px 0px;
+     border-radius: 10px 10px 10px 10px;
+     top: 0%;
+     left: 1%;
+
+}
+
+
+
+.imgbq7{
+
+    position: absolute;
+     width: 80%;
+     height: 30%;
+     top: 16%;
+     border-radius: 20px 20px 20px 20px;
+     left: 10%;
+     transition: 0.5s;
+
+}
+
+.imgbq7:hover{
+    transform: scale(1.1);
+   
+
+}
+
+.txtbq7{
+   
+    position: absolute;
+    top: 48%;
+    width: 90%;
+    height: 25%;
+    border-radius: 0px;
+    font-size: 20px;
+    background-color:  rgb(45, 111, 43);
+    color: white;
+    font-family: 'Gothic A1', sans-serif;
+    text-align: center;
+    justify-content: center;    
+    border-width: 0px;
+    left: 1%;   
+    border-radius: 50px;
+    padding: 5%;
+
+}
+
+
+
+
+
+/*tortuga gigante pinta*/
+
+.bq9{
+
+   position: absolute; 
+   font-family: 'Gothic A1', sans-serif;
+   justify-content: center;
+   text-align: center;
+   font-size: 35px;
+   color: white;
+   background-color: rgb(45, 111, 43);; 
+   width: 100%; 
+   height: 5%;  
+   padding: 8px 0px 5px 0px;
+   border-radius: 10px 10px 10px 10px;
+   top: 0%;
+
+}
+
+
+.imgbq9{
+
+   position: absolute;
+   width: 80%;
+   height: 30%;
+   top: 16%;
+   border-radius: 20px 20px 20px 20px;
+   left: 10%;
+   transition: 0.5s;  
+
+}
+
+.imgbq9:hover{
+  transform: scale(1.1);
+ 
+
+}
+
+
+
+.txtbq9{
+  position: absolute;
+  top: 48%;
+  width: 90%;
+  height: 25%;
+  border-radius: 0px;
+  font-size: 18px;
+  background-color:  rgb(45, 111, 43);
+  color: white;
+  font-family: 'Gothic A1', sans-serif;
+  text-align: center;
+  justify-content: center;
+  border-color:  rgb(60, 136, 141);
+  border-width: 0px;
+  left: 1%;   
+  border-radius: 50px;
+  padding: 5%;
+
+
+
+
+}
+
+
+
+
+
+
+/*tigre de tasmania*/
+
+
+.bq11{
+
+    position: absolute; 
+     font-family: 'Gothic A1', sans-serif;
+     justify-content: center;
+     text-align: center;
+     font-size: 35px;
+     color: white;  
+     width: 100%; 
+     height: 5%;  
+     padding: 8px 0px 5px 0px;
+     border-radius: 10px 10px 10px 10px;
+     top: 0%;
+     right: 1%;
+     background-color: rgb(45, 111, 43);;
+
+
+  
+}
+
+
+.imgbq11{
+
+   position: absolute;
+   width: 80%;
+   height: 30%;
+   top: 16%;
+   border-radius: 20px 20px 20px 20px;
+  left: 10%;
+  transition: 0.5s;
+   
+}
+
+.imgbq11:hover{
+  transform: scale(1.1);
+ 
+
+}
+
+.txtbq11{
+
+  position: absolute;
+  top: 48%;
+  width: 90%;
+  height: 25%;
+  border-radius: 0px;
+  font-size: 18px;
+  background-color:  rgb(45, 111, 43);
+  color: white;
+  font-family: 'Gothic A1', sans-serif;
+  text-align: center;
+  justify-content: center;
+  border-color:  rgb(60, 136, 141);
+  border-width: 0px;
+  right: 1%;   
+  border-radius: 50px;
+  padding: 5%;
+
+
+
+}
+
+
+.historyinteractive{
+
+  position: absolute;
+  background-color: rgb(45, 111, 43);
+  font-family: 'Gothic A1', sans-serif;
+  font-size: 40px;
+  border-radius: 10px 10px 10px 10px;
+  left: 43%;
+  bottom: 2%;
+  width: 30%;
+  height: 12%;
+  color: white;
+  cursor: pointer;
+  transition: 0.5s;
+  width: 15%;
+
+}
+
+.historyinteractive:hover{
+
+ background-color:  rgba(34, 156, 30, 0.76);
+ transform: scale(1.1);
+
+}
+ 
+
+   
+/*inicio introduccion y objetivos */
+/*inicio introduccion y objetivos */
+/*inicio introduccion y objetivos */
+
+
+
+.main4{
+
+    position: absolute;
+     width:100%;
+     height: 80%;    
+     display: flex;
+
+
+}
+
+
+.sectionfour{
+     
+    position: relative;
+    display: flex;
+    width: 100%;
+    height: 80vh;
+    top: 15%;
+    
+  
+  } 
+
+
+  .divcontenido4{
+
+    position: absolute;
+    
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    flex-direction:column;
+    align-items: center;
+    top: 0%;  
+ 
+ 
+ 
+ 
+  }
+
+  .haderp4{
+ 
+    font-family: 'Gothic A1', sans-serif;
+    background-color:  rgb(45, 111, 43);    
+    width: 80%;
+    height: 15%;    
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    border-radius: 20PX;
+    top: 2%;
+    z-index: 900;
+    left: 10%;
+    position: absolute;
+   
+    
+    
+
+
+ }
+
+
+ 
+
+
+  .banterior2{
+    position: absolute;
+    width: 20%;
+    height: 40%;
+    left: -16%;
+    top: 35%;
+
+    
+
+
+
+ }
+
+  .Navprincipiosanim4{
+
+    position: absolute;    
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    color: white;
+    font-size: 60px;
+    width: 100%;
+    height: 100%;
+    
+    
+ 
+ }
+
+
+ 
+
+  
+
+ .recurso2{
+
+    position: relative;
+     
+     font-family: Arial, Helvetica, sans-serif;
+     text-decoration: none;
+     color: white;
+     background-color:  rgb(45, 111, 43);
+     font-size: 30px;
+     width: 20%;
+     height: 20%;     
+     text-align: center;
+     padding: 5px 0px 2px 0px;
+     border-radius: 10px 10px 10px 10px;
+     border-color: rgb(60, 136, 141);  
+      
+
+
+ }
+
+ .recurso2:hover{
+        
+    background-color: rgba(60, 136, 141, 0.548);
+
+ }
+
+ .intro{
+
+    position: absolute;
+    top: 0%;
+    width: 60%;
+    height: 8%;
+    left: 20%;
+    text-align: center;
+    font-size: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    color: white;
+    align-items: center;
+    justify-content: center;
+    border-radius: 4%;
+    padding: 15px 15px 15px 15px;
+
+
+ }
+
+
+ .txtintro{
+    position: absolute;
+    top: 6%;
+    width: 30%;
+    height: 33%;
+    text-align: center;
+    left: 35%;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;   
+    color: white;
+    border-radius: 50px;
+    bottom: 10%;
+    padding: 1.5%;
+    background-color: rgb(45, 111, 43);
+    
+ 
+
+
+ }
+
+.imgambi{
+
+  position: absolute;
+  width: 60%;
+  height: 40%;
+  top: 53%;
+  left: 20%;
+  transition: 0.5s;
+
+
+
+
+ }
+
+ .imgambi:hover{
+
+ transform: scale(1.05);
+
+
+ }
+
+
+
+
+.enlace2{
+
+    position: absolute;
+    width: 20%;
+    height: 10%;
+    left: 40%;
+    top: 85%;  
+    transition: 0.5s;
+  
+  
+   }
+
+   .enlace2:hover{
+  
+    background-color: (34, 156, 30, 0.76);
+    transform: scale(1.1);
+
+   }
+
+.recurso2{
+
+    position: absolute;
+     
+     font-family: Arial, Helvetica, sans-serif;
+     text-decoration: none;
+     color: white;
+     background-color: rgb(45, 111, 43);
+     font-size: 30px;
+     top: 110%;
+     width: 100%;
+     height: 100%;     
+     text-align: center;
+     padding: 5px 0px 2px 0px;
+     border-radius: 10px 10px 10px 10px;
+     border-color: rgb(45, 111, 43);
+      
+
+
+ }
+
+ .recurso2:hover{
+        
+    background-color:  rgba(34, 156, 30, 0.76);
+
+ }
+
+
+  /*conclusiones y juego*/
+  /*conclusiones y juego*/
+  /*conclusiones y juego*/
+
+
+
+   :root{
+
+   
+   --main-color: rgb(60, 136, 141);
+
+
+   }
+
+
+
+
+   html{
+
+    scroll-behavior: smooth;
+   /*max-width: 1200px;*/
+
+   /*background-color: black;*/
+   
+    
+
+
+   }
+
+
+  
+
+   .haderp7{
+     
+    font-family: 'Gothic A1', sans-serif;
+    background-color:  rgb(60, 136, 141);
+    z-index: 900;
+    width: 80%;
+    height: 10%; 
+    display: flex;   
+    align-items: center;
+    justify-content: center;
+    border-radius: 20PX;
+    top: 0.5%;
+    /*max-width: 1200px;*/
+    left: 10%;
+    position: absolute;  
+    background-color: rgb(45, 111, 43);  
+
+
+}
+
+ 
+.Navprincipiosanim7{
+    
+   
+     
+  position: absolute;
+     
+  font-family: Arial, Helvetica, sans-serif;
+  text-decoration: none;
+  color: white;
+  
+  font-size: 60px;
+  width: 100%;
+  height: 80%;
+  padding: 0px 0px 0px 0px;
+  text-align: center;
+ 
+    
+ 
+ }
+
+
+   .main7{
+
+     position: relative;
+     width:100%;
+     height: 80%;    
+     
+   
+
+
+
+   }
+
+
+   .sectionseven{
+ 
+    
+ 
+    position: relative;
+    display: flex;
+    width: 100%;
+    height: 80vh;
+    top: 5%;
+    /*max-width: 1200px;*/
+ 
+ 
+ 
+ 
+ }
+
+ .divtextconclusion{
+  
+  position: absolute;
+  top: 40%;
+  left: 30%;
+  
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 25px;
+  color:white; 
+  background-color: green;
+  border-radius: 30px;
+  padding: 2.5%;
+  height: 30%;
+  width: 35%;
+
+
+ }
+
+.readhistory{
+
+ position: absolute;
+ width: 15%;
+ height: 10%;
+ background-color: green;
+ color: white;
+ top: 100%;
+ left: 43%; 
+ border-radius: 20px;
+ font-family: Arial, Helvetica, sans-serif;
+ font-size: 30px;
+ transition: 0.5s;
+
+}
+
+.readhistory:hover{
+
+  cursor: pointer;
+  background-color:  rgba(34, 156, 30, 0.76);
+  transform: scale(1.1);
+}
+
+
+.referencias{
+
+  position: absolute;
+  width: 15%;
+  height: 10%;
+  background-color: green;
+  color: white;
+  top: 112%;
+  right: 1%;
+  
+  border-radius: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+   font-size: 15px;
+   transition: 0.5s;
+ 
+ }
+ 
+ .referencias:hover{
+ 
+   cursor: pointer;
+   background-color:  rgba(255, 166, 0, 0.932);
+   transform: scale(1.1);
+ }
+
+
+/* history part1 */
+/* history part1 */
+/* history part1 */
+
+
+.imghistory1reloj{
+
+   position: absolute;
+   top: 12%;
+   height: 30%;
+   width: 50%;
+   left: 25%;
+   transition: 0.5s;
+   border-radius: 50px;
+
+
+  }
+
+  .imghistory1reloj:hover{
+
+   transform: scale(1.1);
+
+
+  }
+
+
+.divtexthistoryuno{
+  
+   position: absolute;
+   top: 50%;
+   left: 20%;
+   
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 20px;
+   color:white; 
+   background-color: green;
+   border-radius: 20px;
+   padding: 10px;
+   height: 25%;
+   width: 60%;
+ 
+ 
+  }
+
+  
+
+  .imghistory2carro{
+
+    position: absolute;
+    top: 83%;
+    height: 30%;
+    width: 50%;
+    left: 25%;
+    transition: 0.5s;
+    border-radius: 50px;
+
+  }
+
+  .imghistory2carro:hover{
+
+    transform: scale(1.1);
+    
+
+  }
+ 
+
+
+ .divtexthistoryunodos{
+  
+   position: absolute;
+   top: 93%;
+   left: 10%;
+   right: 10%;
+   width: 80%;
+   height: 15%;
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 18px;
+   color:white; 
+   background-color: green;
+   border-radius: 30px;
+   padding: 10px;
+ 
+ 
+  }
+
+
+
+  .decision1{
+ 
+   position: absolute;
+   width: 15%;
+   height: 10%;
+   background-color: green;
+   color: white;
+   top: 113%;
+   left: 1%;
+   
+   border-radius: 20px;
+   font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    transition: 0.5s;
+  
+  }
+  
+  .decision1:hover{
+  
+    cursor: pointer;
+    background-color:  rgba(255, 2, 2, 0.76);
+    transform: scale(1.1);
+  }
+ 
+  .decision2{
+ 
+   position: absolute;
+   width: 15%;
+   height: 10%;
+   background-color: green;
+   color: white;
+   top: 113%;
+   right: 1%;
+   
+   border-radius: 20px;
+   font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    transition: 0.5s;
+  
+  }
+  
+  .decision2:hover{
+  
+    cursor: pointer;
+    background-color:  rgba(3, 20, 255, 0.726);
+    transform: scale(1.1);
+  }
+ 
+
+
+ 
+
+
+ /* SECTOR DE TOMA DE DECISIONES*/
+ /* SECTOR DE TOMA DE DECISIONES*/
+ /* SECTOR DE TOMA DE DECISIONES*/
+ /* SECTOR DE TOMA DE DECISIONES*/
+ /* SECTOR DE TOMA DE DECISIONES*/
+ /* SECTOR DE TOMA DE DECISIONES*/
+ /* SECTOR DE TOMA DE DECISIONES*/
+ /* SECTOR DE TOMA DE DECISIONES*/
+ /* SECTOR DE TOMA DE DECISIONES*/
+ /* SECTOR DE TOMA DE DECISIONES*/
+
+
+
+
+ /* 1 */
+ /* 1 */
+ /* 1 */
+ /* 1 */
+ /* 1 */
+
+
+ /*DECISION CONTINUAR CARRO*/
+
+
+  /* Driver car 1 */
+  /* Driver car 1 */
+  /* Driver car 1 */
+
+  .imgdriver1{
+
+    position: absolute;
+    top: 3%;
+    height: 35%;
+    width: 60%;
+    left: 20%;
+    transition: 0.5s;
+    border-radius: 50px;
+ 
+ 
+   }
+ 
+   .imgdriver1:hover{
+ 
+    transform: scale(1.1);
+ 
+ 
+   }
+ 
+ 
+ .divtextdecision1{
+   
+    position: absolute;
+    top: 43%;
+    left: 10%;
+    right: 10%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    color:white; 
+    background-color: green;
+    border-radius: 20px;
+    padding: 10px;
+    height: 25%;
+    width: 80%;
+  
+  
+   }
+ 
+   
+ 
+   .imgdriver2{
+ 
+    position: absolute;
+    top: 75%;
+    height: 35%;
+    width: 60%;
+    left: 20%;
+   transition: 0.5s;
+   border-radius: 50px;
+ 
+   }
+
+   .imgdriver2:hover{
+  
+    transform: scale(1.1);
+
+   }
+
+   .imgdriver2_2{
+ 
+    position: absolute;
+    top: 75%;
+    height: 40%;
+    width: 60%;
+    left: 20%;
+   transition: 0.5s;
+   border-radius: 50px;
+ 
+   }
+
+   .imgdriver2_2:hover{
+  
+    transform: scale(1.1);
+
+   }
+  
+ 
+ 
+  .divtexthistoryunodos{
+   
+    position: absolute;
+    top: 93%;
+    left: 10%;
+    right: 10%;
+    width: 80%;
+    height: 15%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color:white; 
+    background-color: green;
+    border-radius: 30px;
+    padding: 10px;
+  
+  
+   }
+ 
+ 
+ 
+   .decision1{
+  
+    position: absolute;
+    width: 15%;
+    height: 10%;
+    background-color: green;
+    color: white;
+    top: 113%;
+    left: 1%;
+    
+    border-radius: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+     font-size: 20px;
+     transition: 0.5s;
+   
+   }
+   
+   .decision1:hover{
+   
+     cursor: pointer;
+     background-color:  rgba(255, 2, 2, 0.76);
+     transform: scale(1.1);
+   }
+  
+   .decision2{
+  
+    position: absolute;
+    width: 15%;
+    height: 10%;
+    background-color: green;
+    color: white;
+    top: 113%;
+    right: 1%;
+    
+    border-radius: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+     font-size: 18px;
+     transition: 0.5s;
+   
+   }
+   
+   .decision2:hover{
+   
+     cursor: pointer;
+     background-color:  rgba(3, 20, 255, 0.726);
+     transform: scale(1.1);
+   }
+
+
+  /*bosquedecision*/
+  /*bosquedecision*/
+  /*bosquedecision*/
+
+ 
+ 
+ .divtextseguircalle{
+   
+    position: absolute;
+    top: 52%;
+    left: 10%;
+    right: 10%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    color:white; 
+    background-color: green;
+    border-radius: 20px;
+    padding: 10px;
+    height: 20%;
+    width: 80%;
+  
+  
+   }
+ 
+   
+ 
+   .imgdriver2{
+ 
+    position: absolute;
+    top: 81%;
+    height: 35%;
+    width: 60%;
+    left: 20%;
+   transition: 0.5s;
+ 
+   }
+
+   .imgdriver2:hover{
+  
+    transform: scale(1.1);
+
+   }
+  
+ 
+ 
+  .divtexthistoryunodos{
+   
+    position: absolute;
+    top: 93%;
+    left: 10%;
+    right: 10%;
+    width: 80%;
+    height: 15%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color:white; 
+    background-color: green;
+    border-radius: 30px;
+    padding: 10px;
+  
+  
+   }
+ 
+ 
+ 
+   .decision1{
+  
+    position: absolute;
+    width: 15%;
+    height: 10%;
+    background-color: green;
+    color: white;
+    top: 113%;
+    left: 1%;
+    
+    border-radius: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+     font-size: 20px;
+     transition: 0.5s;
+   
+   }
+   
+   .decision1:hover{
+   
+     cursor: pointer;
+     background-color:  rgba(255, 2, 2, 0.76);
+     transform: scale(1.1);
+   }
+  
+   .decision2{
+  
+    position: absolute;
+    width: 15%;
+    height: 10%;
+    background-color: green;
+    color: white;
+    top: 113%;
+    right: 1%;
+    
+    border-radius: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+     font-size: 18px;
+     transition: 0.5s;
+   
+   }
+   
+   .decision2:hover{
+   
+     cursor: pointer;
+     background-color:  rgba(3, 20, 255, 0.726);
+     transform: scale(1.1);
+   }
+
+
+  /* Explorar bosque */
+ /* Explorar bosque */
+  /* Explorar bosque */
+
+
+ .video_caminata{
+
+  position: absolute;
+  top: 3%;
+  width: 500px;
+  height: 300px;
+  left: 35%;
+  transition: 0.5s;
+ 
+
+ }
+
+ .imgdriver1:hover{
+
+  transform: scale(1.1);
+
+
+ }
+
+
+ .divtextexplbosque{
+ 
+  position: absolute;
+  top: 60%;
+  left: 20%;
+  right: 10%;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 22px;
+  color:white; 
+  background-color: green;
+  border-radius: 20px;
+  padding: 10px;
+  height: 46%;
+  width: 60%;
+
+
+ }
+
+ .divtextexplbosque2{
+ 
+  position: absolute;
+  top: 61%;
+  left: 10%;
+  right: 10%;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 22px;
+  color:white; 
+  background-color: green;
+  border-radius: 20px;
+  padding: 10px;
+  height: 45%;
+  width: 80%;
+
+
+ }
+
+
+ 
+
+ 
+
+
+
+.divtexthistoryunodos{
+ 
+  position: absolute;
+  top: 93%;
+  left: 10%;
+  right: 10%;
+  width: 80%;
+  height: 15%;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  color:white; 
+  background-color: green;
+  border-radius: 30px;
+  padding: 10px;
+
+
+ }
+
+
+
+ .continuaralfinal{
+
+  position: absolute;
+  width: 15%;
+  height: 10%;
+  background-color: green;
+  color: white;
+  top: 113%;
+  right: 1%;  
+  border-radius: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  transition: 0.5s;
+ 
+ }
+ 
+ .continuaralfinal:hover{
+ 
+   cursor: pointer;
+   background-color:  rgba(7, 7, 7, 0.76);
+   transform: scale(1.1);
+ }
+
+ .audio_expbosque_1{
+ 
+  position: absolute;
+  top: 113%; 
+  
+ }
+
+ 
+
+
+
+ .txtscreenfinish{
+  position: absolute;
+  top: 75%;
+  width: 18%;
+  height: 8%;
+  text-align: center;
+  left: 10%;
+  font-size: 45px;
+  font-family: Arial, Helvetica, sans-serif;   
+  color: rgb(45, 111, 43);
+  border-radius: 5px;
+  
+  
+
+
+
+}
+
+.txtscreenfinish2{
+  position: absolute;
+  top: 75%;
+  width: 30%;
+  height: 8%;
+  text-align: center;
+  left: 60%;
+  font-size: 45px;
+  font-family: Arial, Helvetica, sans-serif;   
+  color: rgb(45, 111, 43);
+  border-radius: 5px;
+  
+  
+
+
+
+}
+
+
+
+.iniciofinal10{
+
+  position: absolute;
+   top: 90%;
+   font-family: Arial, Helvetica, sans-serif;
+   text-decoration: none;
+   color: white;
+   background-color:  rgb(45, 111, 43);
+   font-size: 30px;
+   width: 15%;
+   height: 15%;     
+   text-align: center;
+   padding: 5px 0px 2px 0px;
+   border-radius: 10px 10px 10px 10px;
+   
+   left: 40%; 
+   transition: 0.5s;
+
+
+}
+
+.iniciofinal10:hover{
+      
+  background-color: rgba(255, 5, 5, 0.705);
+  transform: scale(1.2);
+
+}
+
+
+.audio_screenFinish{
+ 
+  position: absolute;
+  top: 95%; 
+  
+ }
+
+
+ .imgext_humanity{
+ 
+  position: absolute;
+  top: 10%;
+  height: 70%;
+  width: 80%;
+  left: 10%;
+  transition: 0.5s;
+  border-radius: 30px;
+
+ }
+
+ .imgext_humanity:hover{
+
+  transform: scale(1.1);
+
+ }
+
+
+ .imgbosqueexp{
+ 
+  position: absolute;
+  top: 10%;
+  height: 45%;
+  width: 60%;
+  left: 20%;
+ transition: 0.5s;
+ border-radius: 50px;
+
+ }
+
+ .imgbosqueexp:hover{
+
+  transform: scale(1.1);
+
+ }
+
+
+
+
+/* 2 */
+/* 2 */
+/* 2 */
+/* 2 */
+/* 2 */
+
+
+
+/* DECISION CONTINUAR CAMINANDO */ 
+/* DECISION CONTINUAR CAMINANDO */ 
+/* DECISION CONTINUAR CAMINANDO */ 
+
+
+
+.imgwalk1{
+
+  position: absolute;
+  top: 3%;
+  height: 35%;
+  width: 60%;
+  left: 20%;
+  transition: 0.5s;
+  border-radius: 50px;
+
+
+ }
+
+ .imgwalk1:hover{
+
+  transform: scale(1.1);
+
+
+ }
+
+
+.divtextwalk1{
+ 
+  position: absolute;
+  top: 41%;
+  left: 10%;
+  right: 10%;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 25px;
+  color:white; 
+  background-color: green;
+  border-radius: 20px;
+  padding: 10px;
+  height: 28%;
+  width: 80%;
+
+
+ }
+
+ 
+
+ .imgwalk2{
+
+  position: absolute;
+  top: 75%;
+  height: 35%;
+  width: 60%;
+  left: 20%;
+  transition: 0.5s;
+  border-radius: 50px;
+
+ }
+
+ .imgwalk2:hover{
+
+  transform: scale(1.1);
+
+ }
+
+
+
+.divtexthistoryunodos{
+ 
+  position: absolute;
+  top: 93%;
+  left: 10%;
+  right: 10%;
+  width: 80%;
+  height: 15%;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  color:white; 
+  background-color: green;
+  border-radius: 30px;
+  padding: 10px;
+
+
+ }
+
+
+
+ .decision1{
+
+  position: absolute;
+  width: 15%;
+  height: 10%;
+  background-color: green;
+  color: white;
+  top: 113%;
+  left: 1%;
+  
+  border-radius: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+   font-size: 20px;
+   transition: 0.5s;
+ 
+ }
+ 
+ .decision1:hover{
+ 
+   cursor: pointer;
+   background-color:  rgba(255, 2, 2, 0.76);
+   transform: scale(1.1);
+ }
+
+ .decision2{
+
+  position: absolute;
+  width: 15%;
+  height: 10%;
+  background-color: green;
+  color: white;
+  top: 113%;
+  right: 1%;
+  
+  border-radius: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+   font-size: 18px;
+   transition: 0.5s;
+ 
+ }
+ 
+ .decision2:hover{
+ 
+   cursor: pointer;
+   background-color:  rgba(3, 20, 255, 0.726);
+   transform: scale(1.1);
+ }
+
+
+ .audio_walking_2{
+ 
+  position: absolute;
+  top: 113%; 
+  left: 45%;
+  
+ }
+
+
+
+ /*military*/
+
+
+ .imgwalk_military{
+
+  position: absolute;
+  top: 3%;
+  height: 35%;
+  width: 60%;
+  left: 20%;
+  transition: 0.5s;
+
+
+ }
+
+ .imgwalk_military:hover{
+
+  transform: scale(1.1);
+
+
+ }
+
+
+.imgwalk_military2{
+ 
+  position: absolute;
+  top: 41%;
+  left: 10%;
+  right: 10%;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 22px;
+  color:white; 
+  
+  border-radius: 20px;
+  padding: 10px;
+  height: 28%;
+  width: 80%;
+
+
+ }
+
+ 
+
+ .imgwalk_military2{
+
+  position: absolute;
+  top: 75%;
+  height: 35%;
+  width: 60%;
+  left: 20%;
+ transition: 0.5s;
+
+ }
+
+ .imgwalk2:hover{
+
+  transform: scale(1.1);
+
+ }
+
+
+
+.divtexthistoryunodos{
+ 
+  position: absolute;
+  top: 93%;
+  left: 10%;
+  right: 10%;
+  width: 80%;
+  height: 15%;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  color:white; 
+  background-color: green;
+  border-radius: 30px;
+  padding: 10px;
+
+
+ }
+
+
+
+ .decision1{
+
+  position: absolute;
+  width: 15%;
+  height: 10%;
+  background-color: green;
+  color: white;
+  top: 113%;
+  left: 1%;
+  
+  border-radius: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+   font-size: 20px;
+   transition: 0.5s;
+ 
+ }
+ 
+ .decision1:hover{
+ 
+   cursor: pointer;
+   background-color:  rgba(255, 2, 2, 0.76);
+   transform: scale(1.1);
+ }
+
+ .decision2{
+
+  position: absolute;
+  width: 15%;
+  height: 10%;
+  background-color: green;
+  color: white;
+  top: 113%;
+  right: 1%;
+  
+  border-radius: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+   font-size: 18px;
+   transition: 0.5s;
+ 
+ }
+ 
+ .decision2:hover{
+ 
+   cursor: pointer;
+   background-color:  rgba(3, 20, 255, 0.726);
+   transform: scale(1.1);
+ }
+
+
+ .audio_walking_2{
+ 
+  position: absolute;
+  top: 113%; 
+  left: 45%;
+  
+ }
+
+
+ /* other cities */
+
+
+
+ .divtextotherCities{
+ 
+  position: absolute;
+  top:3%;
+  left: 10%;
+  right: 10%;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 22px;
+  color:white; 
+  background-color: green;
+  border-radius: 20px;
+  padding: 10px;
+  height: 22%;
+  width: 80%;
+
+
+ }
+
+ .divtextotherCities2{
+ 
+  position: absolute;
+  top: 58%;
+  left: 10%;
+  right: 10%;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 22px;
+  color:white; 
+  background-color: green;
+  border-radius: 20px;
+  padding: 10px;
+  height: 25%;
+  width: 80%;
+
+
+ }
+
+ .imgwalk_other_cities1{
+
+  position: absolute;
+  top: 30%;
+  height: 25%;
+  width: 40%;
+  left: 30%;
+  transition: 0.5s;
+  border-radius: 50px;
+
+
+ }
+
+ .imgwalk_other_cities1:hover{
+
+  transform: scale(1.1);
+
+
+ }
+
+ .imgwalk_other_cities2{
+
+  position: absolute;
+  top: 90%;
+  height: 30%;
+  width: 40%;
+  left: 30%;
+  transition: 0.5s;
+  border-radius: 50px;
+
+
+ }
+
+ .imgwalk_other_cities2:hover{
+
+  transform: scale(1.1);
+
+
+ }
+
+ 
+ .sound_terror1{
+ 
+  position: absolute;
+  top: 113%; 
+  left: 1%;
+  
+ }
+
+
+
+ /* VOVLER A CASA  */
+ /* VOVLER A CASA  */
+ /* VOVLER A CASA  */
+
+
+  .divtextvolveracasa{
+ 
+  position: absolute;
+  top:15%;
+  left: 10%;
+  right: 10%;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 22px;
+  color:white; 
+  background-color: green;
+  border-radius: 20px;
+  padding: 10px;
+  height: 33%;
+  width: 80%;
+
+
+ }
+
+ .imgwalk_vovlercasa1{
+
+  position: absolute;
+  top: 56%;
+  height: 50%;
+  width: 60%;
+  left: 20%;
+  transition: 0.5s;
+border-radius: 50px;
+
+ }
+
+ .imgwalk_vovlercasa1:hover{
+
+  transform: scale(1.1);
+
+
+ }
+
+ .sound_lava{
+ 
+  position: absolute;
+  top: 113%; 
+  left: 1%;
+  
+ }
+
+
+/* VOLVER CASA A DORMIR */
+/* VOLVER CASA A DORMIR */
+/* VOLVER CASA A DORMIR */
+
+
+.divtextvolveracasadormir{
+ 
+  position: absolute;
+  top:50%;
+  left: 10%;
+  right: 10%;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 22px;
+  color:white; 
+  background-color: green;
+  border-radius: 20px;
+  padding: 10px;
+  height: 18%;
+  width: 80%;
+
+
+ }
+
+ .imgwalk_volvercasa1dormir{
+
+  position: absolute;
+  top: 5%;
+  height: 40%;
+  width: 40%;
+  left: 30%;
+  border-radius: 20PX;
+  transition: 0.5s;
+
+
+ }
+
+ .imgwalk_volvercasa1dormir:hover{
+
+  transform: scale(1.1);
+
+
+ }
+
+ .sound_lava{
+ 
+  position: absolute;
+  top: 113%; 
+  left: 1%;
+  
+ }
+
+
+ .imgwalk_vovlercasa2{
+
+  position: absolute;
+  top: 76%;
+  height: 40%;
+  width: 40%;
+  left: 30%;
+  border-radius: 20PX;
+  transition: 0.5s;
+
+
+ }
+
+ .imgwalk_vovlercasa2:hover{
+
+  transform: scale(1.1);
+
+
+ }
+
+
+
+
+
+ /* TOMAR UNA PASTILLA */
+ /* TOMAR UNA PASTILLA */
+ /* TOMAR UNA PASTILLA */
+
+ 
+ .divtexttomarunapastilla{
+ 
+  position: absolute;
+  top:5%;
+  left: 10%;
+  right: 10%;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 19px;
+  color:white; 
+  background-color: green;
+  border-radius: 20px;
+  padding: 10px;
+  height: 15%;
+  width: 80%;
+
+
+ }
+
+
+
+ .video_walk_forest{
+
+  position: absolute;
+  top: 25%;
+  height: 35%;
+  width: 60%;
+  left: 20%;
+  transition: 0.5s;
+  background-color: black;
+  border-radius: 50px;
+ 
+
+ }
+
+ .divtexttomarunapastilla2{
+ 
+  position: absolute;
+  top:63%;
+  left: 10%;
+  right: 10%;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 19px;
+  color:white; 
+  background-color: green;
+  border-radius: 20px;
+  padding: 10px;
+  height: 14%;
+  width: 80%;
+
+
+ }
+
+ .imgwalk_tomarunapastilla{
+
+  position: absolute;
+  top: 82%;
+  height: 30%;
+  width: 60%;
+  left: 20%;
+  border-radius: 50px;
+  transition: 0.5s;
+
+
+ }
+
+ .imgwalk_tomarunapastilla:hover{
+
+  transform: scale(1.1);
+
+
+ }
+
+
+ .audio_walking_1_pastilla{
+ 
+  position: absolute;
+  top: 115%; 
+  left: 43%;
+  
+ }
+
+
+ /* SALIR CORRIENDO */
+ /* SALIR CORRIENDO */
+ /* SALIR CORRIENDO */
+
+ .divtextsalircorriendo{
+ 
+  position: absolute;
+  top: 78%;
+  left: 10%;
+  right: 10%;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 22px;
+  color:white; 
+  background-color: green;
+  border-radius: 20px;
+  padding: 10px;
+  height: 16%;
+  width: 80%;
+
+
+ }
+
+
+ .imgwalk_salircorriendo{
+
+  position: absolute;
+  top: 10%;
+  height: 60%;
+  width: 60%;
+  left: 20%;
+  border-radius: 50px;
+  transition: 0.5s;
+
+
+ }
+
+ .imgwalk_salircorriendo:hover{
+
+  transform: scale(1.1);
+
+
+ }
+
+
+
+ /* CONTINUAR CAMINO DRIVER CAR */
+ /* CONTINUAR CAMINO DRIVER CAR */
+ /* CONTINUAR CAMINO DRIVER CAR */
+
+ .imgcontinuarway{
+
+  position: absolute;
+  top: 8%;
+  height: 40%;
+  width: 60%;
+  left: 20%;
+  transition: 0.5s;
+  border-radius: 20px;
+
+
+ }
+
+ .imgcontinuarway:hover{
+
+  transform: scale(1.1);
+
+
+ }
+
+
+.divtexcontinueway{
+ 
+  position: absolute;
+  top: 5%;
+  left: 10%;
+  right: 10%;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  color:white; 
+  background-color: green;
+  border-radius: 20px;
+  padding: 10px;
+  height: 15%;
+  width: 80%;
+
+
+ }
+
+ 
+
+ .imgcontinuarway21{
+
+   position: absolute;
+   top: 80%;
+   height: 40%;
+   width: 60%;
+   left: 20%;
+   transition: 0.5s;
+   border-radius: 20px;
+
+
+ }
+
+
+ .imgcontinuarway21:hover{
+
+  transform: scale(1.1);
+
+
+
+ } 
+
+.divtexcontinueway2{
+ 
+  position: absolute;
+  top: 50%;
+  left: 10%;
+  right: 10%;
+  width: 80%;
+  height: 25%;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 22px;
+  color:white; 
+  background-color: green;
+  border-radius: 30px;
+  padding: 10px;
+
+
+ }
+
+
+
+ .decision1{
+
+  position: absolute;
+  width: 15%;
+  height: 10%;
+  background-color: green;
+  color: white;
+  top: 113%;
+  left: 1%;
+  
+  border-radius: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+   font-size: 20px;
+   transition: 0.5s;
+ 
+ }
+ 
+ .decision1:hover{
+ 
+   cursor: pointer;
+   background-color:  rgba(255, 2, 2, 0.76);
+   transform: scale(1.1);
+ }
+
+ .decision2{
+
+  position: absolute;
+  width: 15%;
+  height: 10%;
+  background-color: green;
+  color: white;
+  top: 113%;
+  right: 1%;
+  
+  border-radius: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+   font-size: 18px;
+   transition: 0.5s;
+ 
+ }
+ 
+ .decision2:hover{
+ 
+   cursor: pointer;
+   background-color:  rgba(3, 20, 255, 0.726);
+   transform: scale(1.1);
+ }
+
+
+
+ /* RETURN CAR */ 
+ /* RETURN CAR */ 
+ /* RETURN CAR */ 
+
+ .imgreturncar{
+
+  position: absolute;
+  top: 23%;
+  height: 30%;
+  width: 30%;
+  left: 35%;
+  transition: 0.5s;
+  border-radius: 20px;
+
+
+ }
+
+ .imgreturncar:hover{
+
+  transform: scale(1.1);
+
+
+ }
+
+
+.divtextreturncar{
+ 
+  position: absolute;
+  top: 2%;
+  left: 10%;
+  right: 10%;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  color:white; 
+  background-color: green;
+  border-radius: 20px;
+  padding: 10px;
+  height: 15%;
+  width: 80%;
+
+
+ }
+
+ 
+
+ .imgcontinuarway2{
+
+   position: absolute;
+   top: 35%;
+   height: 30%;
+   width: 30%;
+   left: 35%;
+   transition: 0.5s;
+   border-radius: 20px;
+
+
+ }
+
+
+ .imgcontinuarway2:hover{
+
+  transform: scale(1.1);
+
+
+
+ } 
+
+.divtextreturncar2{
+ 
+  position: absolute;
+  top: 70%;
+  left: 10%;
+  right: 10%;
+  width: 80%;
+  height: 33%;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 21px;
+  color:white; 
+  background-color: green;
+  border-radius: 30px;
+  padding: 10px;
+
+
+ }
+
+
+
+ .decision1{
+
+  position: absolute;
+  width: 15%;
+  height: 10%;
+  background-color: green;
+  color: white;
+  top: 113%;
+  left: 1%;
+  
+  border-radius: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+   font-size: 20px;
+   transition: 0.5s;
+ 
+ }
+ 
+ .decision1:hover{
+ 
+   cursor: pointer;
+   background-color:  rgba(255, 2, 2, 0.76);
+   transform: scale(1.1);
+ }
+
+ .decision2{
+
+  position: absolute;
+  width: 15%;
+  height: 10%;
+  background-color: green;
+  color: white;
+  top: 113%;
+  right: 1%;
+  
+  border-radius: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+   font-size: 18px;
+   transition: 0.5s;
+ 
+ }
+ 
+ .decision2:hover{
+ 
+   cursor: pointer;
+   background-color:  rgba(3, 20, 255, 0.726);
+   transform: scale(1.1);
+ }
+
+.audio_sound_sea{
+
+ position: absolute;
+ left: 1%;
+ top: 112%;
+
+
+}
+
+/* CONTINUE 1 RETUNER CAR */ 
+/* CONTINUE 1 RETUNER CAR */ 
+/* CONTINUE 1 RETUNER CAR */ 
+
+.imgcontinuar1{
+
+  position: absolute;
+  top: 23%;
+  height: 30%;
+  width: 30%;
+  left: 35%;
+  transition: 0.5s;
+  border-radius: 20px;
+
+
+ }
+
+ .imgcontinuar1:hover{
+
+  transform: scale(1.1);
+
+
+ }
+
+
+.divtextcontinuar1{
+ 
+  position: absolute;
+  top: 2%;
+  left: 10%;
+  right: 10%;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  color:white; 
+  background-color: green;
+  border-radius: 20px;
+  padding: 10px;
+  height: 22%;
+  width: 80%;
+
+
+ }
+
+ 
+
+ .imgcontinue2{
+
+   position: absolute;
+   top: 100%;
+   height: 20%;
+   width: 20%;
+   left: 40%;
+   transition: 0.5s;
+   border-radius: 20px;
+
+
+ }
+
+
+ .imgcontinue2:hover{
+
+  transform: scale(1.1);
+
+
+
+ } 
+
+.divtextcontinue2{
+ 
+  position: absolute;
+  top: 56%;
+  left: 10%;
+  right: 10%;
+  width: 80%;
+  height: 39%;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  color:white; 
+  background-color: green;
+  border-radius: 30px;
+  padding: 10px;
+
+
+ }
+
+
+
+ .decision1{
+
+  position: absolute;
+  width: 15%;
+  height: 10%;
+  background-color: green;
+  color: white;
+  top: 113%;
+  left: 1%;
+  
+  border-radius: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+   font-size: 20px;
+   transition: 0.5s;
+ 
+ }
+ 
+ .decision1:hover{
+ 
+   cursor: pointer;
+   background-color:  rgba(255, 2, 2, 0.76);
+   transform: scale(1.1);
+ }
+
+ .decision2{
+
+  position: absolute;
+  width: 15%;
+  height: 10%;
+  background-color: green;
+  color: white;
+  top: 113%;
+  right: 1%;
+  
+  border-radius: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+   font-size: 18px;
+   transition: 0.5s;
+ 
+ }
+ 
+ .decision2:hover{
+ 
+   cursor: pointer;
+   background-color:  rgba(3, 20, 255, 0.726);
+   transform: scale(1.1);
+ }
+
+.audio_sound_sad_piano{
+
+ position: absolute;
+ left: 1%;
+ top: 112%;
+
+
+}
+
+
+
+
+/* referencias 2 */
+/* referencias 2 */
+/* referencias 2 */
+
+.divtextrefer{
+  
+  position: absolute;
+  top: 30%;
+  left: 3%;  
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  color:white; 
+  background-color: green;
+  border-radius: 30px;
+  padding: 3%;
+  width: 22%;
+
+
+ }
+
+ .divtextrefer2{
+  
+  position: absolute;
+  top: 30%;
+  left: 38%;
+  
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  color:white; 
+  background-color: green;
+  border-radius: 30px;
+  padding: 3%;
+  width: 25%;
+  height: 75%;
+
+
+ }
+
+ .divtextrefer3{
+  
+  position: absolute;
+  top: 30%;
+  right: 3%;  
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  color:white; 
+  background-color: green;
+  border-radius: 30px;
+  padding: 3%;
+  width: 15%;
+  height: 25%;
+
+
+ }
+
+ .return_history{
+
+  position: absolute;
+  width: 60%;
+  height: 15%;
+  background-color: green;
+  color: white;
+  top: 200%;
+  right: 1%;
+  
+  border-radius: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+   font-size: 20px;
+   transition: 0.5s;
+ 
+ }
+ 
+ .return_history:hover{
+ 
+   cursor: pointer;
+   background-color:  rgba(255, 166, 0, 0.932);
+   transform: scale(1.1);
+ }
+
+
+
+ .audio_guitarsad{
+ 
+  position: absolute;
+  top: 104%; 
+  right: 1%;
+  width: 15%;
+  
+ }
+
+
+
+
+
+
+
+/*PARA CREAR MENUS DE CELULAR*/
+/*PARA CREAR MENUS DE CELULAR*/
+/*PARA CREAR MENUS DE CELULAR*/
+
+.navbutton{
+
+    position:fixed; 
+    z-index: 999;   
+    top: 1vh;
+    right: 1vh;
+    cursor: pointer;        
+    padding: 0;
+    border-radius: 50%;
+    width: 8%;
+    max-width: 10%;
+    height: 8%;  
+    max-height: 10%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(45, 111, 43);
+    transition: 0.5s;
+    
+
+
+}
+
+
+
+.panel{
+
+ position: fixed;
+ z-index: 999;
+ width: 40%;
+ top: 1vh;
+ right: 1vh;
+ background-color:  rgba(45, 111, 43, 0.705);
+
+ /*Para que el menu aparezca de algun lugar en el eje x o y
+ se debe desactivar todo lo de opacidad aca y en 
+ panel.is-active, menos el transform que debe estar activo*/
+
+ /*transition: transform 0.3s ease;*/
+/*para que salga de arriba*/
+ /*transform: translate(0, -100);*/
+
+ /*ABAJO*/
+ /*transform: translate(0, 100%);*/
+
+ /*DERECHA*/
+ /*transform: translate(300%, 0);*/
+
+ /*IZQUIERDA*/
+ /*transform: translate(-300%, 0);*/
+
+
+
+ /*para opacidad*/
+ /*se debe desactivar las transform de aca
+ la transition de arriba
+ y el transform de panel.is-active*/
+
+ transition: transform 0.3s ease, opacity 0.5s ease;
+ opacity: 0;
+ visibility: hidden;
+
+ 
+
+ 
+
+
+
+}
+
+.panel.is-active{
+
+ /*para que aparezca en alguna direccion*/
+ /*transform:translate(0, 0);*/
+
+ /*para que el menu aparezca por opacidad*/
+ opacity: 1;
+ visibility: visible;
+ background-color: rgba(0, 128, 0, 0.527);
+
+} 
+
+
+
+.panel-btn{
+
+    position:fixed;
+    z-index: 998;
+    top: 1vh;
+    right: 1vh;
+    cursor: pointer;        
+    padding: 0;
+    border-radius: 50%;
+    width: 8%;
+    height: 8.5%;  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:  rgb(45, 111, 43);
+    transition: 0.5s;
+
+  
+}
+
+.panel-btn:hover{
+  background-color:  rgba(34, 156, 30, 0.76);
+  transform: scale(1.2);
+}
+
+
+
+
+ .menu{
+
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+  text-align: center;
+  background-color:  rgb(45, 111, 43);
+
+
+ }
+
+ .menu a{
+
+    padding: 8%;
+    width: 84%;
+    display: block;
+    font-size: 18px;
+    text-decoration: none;
+    color: white;
+    transition: all 0.3s ease;
+    font-family: Arial, Helvetica, sans-serif;
+
+ }
+
+  .menu a:hover{
+
+    font-weight: bold;
+    color: white;
+    background-color:  rgba(66, 73, 73, 0.788);
+
+
+  }
+ 
+
+ 
+
+
+
+
+
+  /*darkcolor*/
+
+  .dark-theme-btn{
+
+
+    position:fixed;
+    z-index: 1000;
+    left: 1vw;
+    cursor: pointer;
+    outline: 0;
+    border: 0;
+    transition: all 0.3s ease-out;
+    border-radius: 50%;
+    top: 1vh;
+    left: 1vh;
+    width: 8%;
+    height: 8%;
+    background-color:rgb(45, 111, 43);
+    transition: 0.5s;
+    
+    }
+
+
+    .dark-theme-btn:hover{
+    
+        background-color:   rgba(34, 156, 30, 0.76);
+        transform: scale(1.1);
+        
+    }
+    
+    .dark-mode{
+
+     background-color:black;
+     color: white;
+      
+     
+
+    }
+    
+    
+ 
+
+
+
+
+
+
+}
+
+
+
+
+
+
